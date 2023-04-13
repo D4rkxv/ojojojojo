@@ -1,0 +1,109 @@
+*{
+    background-color: aquamarine;
+    user-select: none;
+    
+
+}
+.ok {
+    width: 400px;
+    height: 700px;
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    margin-left: 45vh;
+    margin-top: 10vh;
+    border-radius: 15px;
+}
+.kool{
+    background-color: black;
+    color: white;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 50px;
+ text-align: center;
+ border-radius: 15px;
+
+}
+input{
+  scale: 160%;  
+  margin-left: 110px;
+  margin-top: -20px;
+  position: absolute;
+  border-radius: 10px;
+  border: 1px solid gainsboro;
+  background-color: grey;
+  box-shadow: 1px 1px 1px rgb(170, 170, 170);
+}
+.look{
+    background-color: black;
+    color: white;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 30px;
+
+
+
+}
+#a{
+    color: rgb(255, 145, 128);
+    width: 20px;
+    scale: 150%;
+    background-color: black;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.tel1{
+  
+    margin-top: -35px;}
+    
+#b{
+    color: rgb(0, 105, 148);
+    width: 20px;
+    scale: 150%;
+    background-color: black;
+    margin-left: 10px;
+    margin-top: 30px;
+    }
+    #c{
+        color: rgb(0, 255, 55);
+        width: 20px;
+        scale: 150%;
+        background-color: black;
+        margin-left: 10px;
+        margin-top: 30px;
+        }
+hr{
+    width: 90%;
+}
+#d{
+    color: rgb(240, 219, 32);
+    width: 20px;
+    scale: 150%;
+    background-color: black;
+    margin-left: 10px;
+    margin-top: 30px;
+    }
+    #e{
+        color: rgb(0, 105, 148);
+        width: 20px;
+        scale: 150%;
+        background-color: black;
+        margin-left: 10px;
+        margin-top: 30px;
+        }
+        #f{
+            color: rgb(0, 105, 148);
+            width: 20px;
+            scale: 150%;
+            background-color: black;
+            margin-left: 10px;
+            margin-top: 30px;
+            }
+            #g{
+                color: rgb(255, 145, 128);
+                width: 20px;
+                scale: 150%;
+                background-color: black;
+                margin-left: 10px;
+                margin-top: 30px;
+                
+                }
+            
